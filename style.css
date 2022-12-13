@@ -1,0 +1,10 @@
+.title{
+    font: bold;
+    font-size: x-large;
+}
+li{
+    outline:none;
+}
+nav{
+    background-color: rgb(223, 96, 96);
+}
